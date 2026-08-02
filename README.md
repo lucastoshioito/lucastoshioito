@@ -6,13 +6,14 @@
 
 <p align="center">
   <a href="https://lucastoshioito.github.io/"><img alt="Website" src="https://img.shields.io/badge/website-111827?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://lucastoshioito.github.io/Lucas_Toshio_Ito_CV_2026.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=aP3kfEMAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
   <a href="https://orcid.org/0000-0001-9713-8687"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-toshio-ito-5b8a96199"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucas.toshio.ito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-I am a biomedical scientist and PhD candidate at **Universidade Federal de São Paulo (UNIFESP)**. I use genetic, molecular, neuroimaging, and longitudinal data to study mental health, with a particular interest in young people and admixed populations.
+I am a biomedical scientist and PhD candidate at Universidade Federal de São Paulo (UNIFESP). I use genetic, molecular, neuroimaging, and longitudinal data to study mental health from childhood to early adulthood, with a particular interest in admixed populations.
 
 <p align="center">
   <a href="https://lucastoshioito.github.io/"><strong>Explore my research portfolio →</strong></a>
