@@ -34,7 +34,3 @@ I am a biomedical scientist and PhD candidate at **Universidade Federal de São 
   <img alt="Quarto" src="https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
-
-<p align="center">
-  <em>Following the chaos of the mind with code that somehow runs.</em>
-</p>
