@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Toshio Ito</h1>
 
 <p align="center">
-  <strong>Psychiatric genetics · bioinformatics</strong>
+  <strong>Psychiatric genetics · Bioinformatics</strong>
 </p>
 
 <p align="center">
