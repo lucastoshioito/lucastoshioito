@@ -13,7 +13,7 @@
   <a href="mailto:lucas.toshio.ito@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-I am a biomedical scientist and PhD candidate at Universidade Federal de São Paulo (UNIFESP). I use genetic, molecular, neuroimaging, and longitudinal data to study mental health from childhood to early adulthood, with particular interests in admixed populations and suicidality.
+I am a biomedical scientist and PhD student at Universidade Federal de São Paulo (UNIFESP). I use genetic, molecular, neuroimaging, and longitudinal data to study mental health from childhood to early adulthood, with particular interests in admixed populations and suicidality.
 
 <p align="center">
   <a href="https://lucastoshioito.github.io/"><strong>Explore my research portfolio →</strong></a>
